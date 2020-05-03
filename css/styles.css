@@ -122,6 +122,9 @@ a:hover{
   padding: 20px 0px;
 }
 
+.subtitle{
+	color: #11999E;
+}
 .btn {
 	background-color:#88e3cc;
 	-webkit-border-top-left-radius:8px;
